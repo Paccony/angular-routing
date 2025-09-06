@@ -1,4 +1,4 @@
-# Angular Routing Beginner
+# Angular Routing
 
 Minimal Angular routing example with dark mode.
 
@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 [https://paccony.github.io/angular-routing-beginner](https://paccony.github.io/angular-routing)
 
 🔧 **Tech:** Angular, Routing, Dark Mode, localStorage
+
 
