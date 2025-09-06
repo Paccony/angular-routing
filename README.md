@@ -25,6 +25,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ---
 
 ## 🚀 Live Demo
-[https://paccony.github.io/angular-routing-beginner](https://paccony.github.io/angular-routing-beginner)
+[https://paccony.github.io/angular-routing-beginner](https://paccony.github.io/angular-routing)
 
 🔧 **Tech:** Angular, Routing, Dark Mode, localStorage
+
